@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning c++,dsa,daa.
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 Email me at swap4099@gmail.com
+- 📫 Getting in Touch swap4099@gmail.com
 
 <!---
 Swapnanil-Chakraborty/Swapnanil-Chakraborty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
